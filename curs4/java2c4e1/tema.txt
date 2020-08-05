@@ -1,0 +1,6 @@
+Realizati urmatoarea ierarhie:
+ - o entitate Folder care are mai multe fisiere
+ - o entitate Fisier care sa aiba mai multe randuri (reprezentate ca String)
+
+ Atat Folder, cat si Fisier trebuie sa contina meta-informatiile: autor, vizibil, accesCitire, accesScriere
+ Cand stergem un Folder, toate Fisierele asociate lui sa fie sterse.
