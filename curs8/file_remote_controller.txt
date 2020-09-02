@@ -1,0 +1,7 @@
+Realizati o aplicatie distribuita prin care o aplicatie client sa poata manipula remote sistemul de fisiere de pe sistemul unei aplicatii server.
+
+Clientul va expune o interfata grafica ce va permite:
+ - afisarea fisierelor
+ - navigarea prin sistemul de fisiere
+ - stergerea unui fisier
+ - redenumirea unui fisier
